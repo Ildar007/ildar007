@@ -1,10 +1,17 @@
-### Hi there 👋
+# Hi there 👋 
+
+###My name is Ildar and I am a front-end developer.
 
 <!--
 **Ildar007/ildar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+**Languages and Tools:**
+*HTML/CSS
+*JavaScript
+*React
 
+      
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
